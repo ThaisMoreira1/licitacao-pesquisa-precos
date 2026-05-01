@@ -22,5 +22,4 @@ Este projeto simula uma pesquisa de preços conforme a Lei 14.133/2021, utilizad
 Definição de preço de referência com base em critérios de economicidade.
 
 ## 👩‍💻 Autora
-Thaís Moreira Batista# licitacao-pesquisa-precos
-Simulação de pesquisa de preços para licitação pública conforme a Lei 14.133/2021.
+Thaís Moreira Batista
